@@ -1,4 +1,4 @@
-package com.ll.demo.global.domain.home.controller;
+package com.ll.demo.domain.home.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Controller;
